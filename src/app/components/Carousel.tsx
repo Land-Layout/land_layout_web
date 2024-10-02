@@ -8,6 +8,10 @@ const images = [
   { src: "/carousel_images/1.jpg", alt: "Image 1" },
   { src: "/carousel_images/2.jpg", alt: "Image 2" },
   { src: "/carousel_images/3.jpg", alt: "Image 3" },
+  { src: "/carousel_images/4.jpg", alt: "Image 4" },
+  { src: "/carousel_images/5.jpg", alt: "Image 5" },
+  { src: "/carousel_images/6.jpg", alt: "Image 6" },
+
 //   { src: "/4.jpg", alt: "Image 4" },
 ];
 
